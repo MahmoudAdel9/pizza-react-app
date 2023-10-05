@@ -1,6 +1,6 @@
 # Pizza React App (Jonas's React Coures)
 
-The Pizza React App is a web application developed using React.js, Hooks, Redux, React Router, and Tailwind CSS for styling. It provides a user-friendly interface for ordering pizzas online. This README will guide you through the project.
+Pizza React App is a web application developed using React.js, Hooks, Redux, React Router, and Tailwind CSS for styling. It provides a user-friendly interface for ordering pizzas online. This README will guide you through the project.
 
 ## live server 
 
