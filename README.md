@@ -22,7 +22,7 @@ https://pizza-react-app-omega.vercel.app/
 - React Router: Library for declarative routing in React applications.
 - Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
 
-## ContributingContributions
+## Contributing Contributions
 
 to the Pizza React App are welcome! If you find any issues or would like to add new features, please open an issue or submit a pull request on the GitHub repository.
 
